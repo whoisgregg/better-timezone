@@ -2823,7 +2823,6 @@
 
         // prefill
         var abbr = new Date().toTimeString().match(/\((.+)\)/)[1];
-        abbr = 'AEDT';
         if (abbr === 'PST' || abbr === 'PDT') {
           $(self.element).val('Pacific').trigger('change');
         } else if (abbr === 'EST' || abbr === 'EDT') {
