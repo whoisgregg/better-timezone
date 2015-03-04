@@ -1,6 +1,6 @@
 {
   "name": "better-timezone",
-  "version": "0.1",
+  "version": "0.0.1",
   "description": "A jquery plugin for making sane timezone selects.",
   "keywords": [
     "jquery-plugin",
