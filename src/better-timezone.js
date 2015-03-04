@@ -2818,28 +2818,42 @@
         //   });
         // });
         $(self.element).select2({
-          placeholder: 'Select a timezone'
+          placeholder: 'Please select a timezone'
         });
+
+        // prefill
+        var abbr = new Date().toTimeString().match(/\((.+)\)/)[1];
+        abbr = 'AEDT';
+        if (abbr === 'PST' || abbr === 'PDT') {
+          $(self.element).val('Pacific').trigger('change');
+        } else if (abbr === 'EST' || abbr === 'EDT') {
+          $(self.element).val('Eastern').trigger('change');
+        } else if (abbr === 'MST' || abbr === 'MDT') {
+          $(self.element).val('Mountain').trigger('change');
+        } else if (abbr === 'CST' || abbr === 'CDT') {
+          $(self.element).val('Central').trigger('change');
+        } else {
+          // look for a match
+          var done;
+          for (var key in self.data) {
+            if (!done) {
+              for (var i = 0; i < self.data[key].length; i++) {
+                var iana = self.data[key][i].iana;
+                if (self.data[key][i].abbrs.indexOf(abbr) !== -1) {
+                  $(self.element).val(iana).trigger('change');
+                  done = true;
+                  break;
+                }
+              }
+            } else {
+              break;
+            }
+          }
+        }
       },
       match: function (term, text, opt) {
         // TODO: match all caps letters strongly, else weakly
         // TODO: if match optgroup labels, show entire group
-        // TODO: prefill with correct timezone
-        // var allText = text + opt.element.parentNode.getAttribute('label')  || '';
-        // return (''+allText).toUpperCase().indexOf((''+term).toUpperCase()) >= 0;
-        // search = search.toUpperCase();
-        // text = text.toUpperCase();
-        // var j = -1; // remembers position of last found character
-
-        // // consider each search character one at a time
-        // for (var i = 0; i < search.length; i++) {
-        //   var l = search[i];
-        //   if (l == ' ') continue;     // ignore spaces
-
-        //   j = text.indexOf(l, j+1);     // search for character & update position
-        //   if (j == -1) return false;  // if it's not found, exclude this item
-        // }
-        // return true;
       },
     });
 

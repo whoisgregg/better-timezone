@@ -8,7 +8,9 @@
     <script src="../src/better-timezone.js"></script>
   </head>
   <body>
-    <select id="timezone"></select>
+    <select id="timezone">
+      <option value="" disabled selected>Please select a timezone</option>
+    </select>
     <script>
       $(document).ready(function(){
         $('#timezone').betterTimezone({
