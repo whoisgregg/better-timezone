@@ -52,7 +52,7 @@
   },
   {
     "iana": "Africa/Ceuta",
-    "name": "NOPE",
+    "name": "Romance Standard Time",
     "abbrs": [
       "CET",
       "CEST"
@@ -83,14 +83,6 @@
     ]
   },
   {
-    "iana": "America/Adak",
-    "name": "NOPE",
-    "abbrs": [
-      "HAST",
-      "HADT"
-    ]
-  },
-  {
     "iana": "America/Anchorage",
     "name": "Alaskan Standard Time",
     "abbrs": [
@@ -107,17 +99,10 @@
   },
   {
     "iana": "America/Araguaina",
-    "name": "NOPE",
+    "name": "SA Eastern Standard Time",
     "abbrs": [
       "BRT",
       "BRST"
-    ]
-  },
-  {
-    "iana": "America/Argentina/Buenos_Aires",
-    "name": "NOPE",
-    "abbrs": [
-      "ART"
     ]
   },
   {
@@ -126,13 +111,6 @@
     "abbrs": [
       "PYST",
       "PYT"
-    ]
-  },
-  {
-    "iana": "America/Atikokan",
-    "name": "NOPE",
-    "abbrs": [
-      "EST"
     ]
   },
   {
@@ -145,7 +123,7 @@
   },
   {
     "iana": "America/Bahia_Banderas",
-    "name": "NOPE",
+    "name": "Central Standard Time (Mexico)",
     "abbrs": [
       "MST",
       "CDT",
@@ -154,7 +132,7 @@
   },
   {
     "iana": "America/Belem",
-    "name": "NOPE",
+    "name": "SA Eastern Standard Time",
     "abbrs": [
       "BRT"
     ]
@@ -168,7 +146,7 @@
   },
   {
     "iana": "America/Boa_Vista",
-    "name": "NOPE",
+    "name": "SA Western Standard Time",
     "abbrs": [
       "AMT"
     ]
@@ -182,7 +160,7 @@
   },
   {
     "iana": "America/Boise",
-    "name": "NOPE",
+    "name": "Mountain Standard Time",
     "abbrs": [
       "MST",
       "MDT"
@@ -190,7 +168,7 @@
   },
   {
     "iana": "America/Campo_Grande",
-    "name": "NOPE",
+    "name": "Central Brazilian Standard Time",
     "abbrs": [
       "AMST",
       "AMT"
@@ -198,7 +176,7 @@
   },
   {
     "iana": "America/Cancun",
-    "name": "NOPE",
+    "name": "Central Standard Time (Mexico)",
     "abbrs": [
       "CST",
       "CDT"
@@ -236,14 +214,14 @@
   },
   {
     "iana": "America/Creston",
-    "name": "NOPE",
+    "name": "US Mountain Standard Time",
     "abbrs": [
       "MST"
     ]
   },
   {
     "iana": "America/Dawson",
-    "name": "NOPE",
+    "name": "Pacific Standard Time",
     "abbrs": [
       "PST",
       "PDT"
@@ -251,7 +229,7 @@
   },
   {
     "iana": "America/Detroit",
-    "name": "NOPE",
+    "name": "Eastern Standard Time",
     "abbrs": [
       "EST",
       "EDT"
@@ -259,7 +237,7 @@
   },
   {
     "iana": "America/Eirunepe",
-    "name": "NOPE",
+    "name": "SA Pacific Standard Time",
     "abbrs": [
       "AMT",
       "ACT"
@@ -267,7 +245,7 @@
   },
   {
     "iana": "America/Glace_Bay",
-    "name": "NOPE",
+    "name": "Atlantic Standard Time",
     "abbrs": [
       "AST",
       "ADT"
@@ -283,7 +261,7 @@
   },
   {
     "iana": "America/Goose_Bay",
-    "name": "NOPE",
+    "name": "Atlantic Standard Time",
     "abbrs": [
       "AST",
       "ADT"
@@ -335,21 +313,6 @@
     ]
   },
   {
-    "iana": "America/Metlakatla",
-    "name": "NOPE",
-    "abbrs": [
-      "PST"
-    ]
-  },
-  {
-    "iana": "America/Miquelon",
-    "name": "NOPE",
-    "abbrs": [
-      "PMST",
-      "PMDT"
-    ]
-  },
-  {
     "iana": "America/Montevideo",
     "name": "Montevideo Standard Time",
     "abbrs": [
@@ -358,15 +321,8 @@
     ]
   },
   {
-    "iana": "America/Noronha",
-    "name": "UTC-02",
-    "abbrs": [
-      "FNT"
-    ]
-  },
-  {
     "iana": "America/North_Dakota/Beulah",
-    "name": "NOPE",
+    "name": "Central Standard Time",
     "abbrs": [
       "MST",
       "MDT",
@@ -489,14 +445,6 @@
     ]
   },
   {
-    "iana": "Antarctica/Troll",
-    "name": "NOPE",
-    "abbrs": [
-      "UTC",
-      "CEST"
-    ]
-  },
-  {
     "iana": "Antarctica/Vostok",
     "name": "Central Asia Standard Time",
     "abbrs": [
@@ -527,7 +475,7 @@
   },
   {
     "iana": "Asia/Anadyr",
-    "name": "NOPE",
+    "name": "Magadan Standard Time",
     "abbrs": [
       "ANAT",
       "ANAST"
@@ -535,7 +483,7 @@
   },
   {
     "iana": "Asia/Aqtau",
-    "name": "NOPE",
+    "name": "West Asia Standard Time",
     "abbrs": [
       "AQTT"
     ]
@@ -593,7 +541,7 @@
   },
   {
     "iana": "Asia/Chita",
-    "name": "NOPE",
+    "name": "Yakutsk Standard Time",
     "abbrs": [
       "YAKT",
       "YAKST",
@@ -602,23 +550,9 @@
   },
   {
     "iana": "Asia/Choibalsan",
-    "name": "NOPE",
+    "name": "Ulaanbaatar Standard Time",
     "abbrs": [
       "CHOT"
-    ]
-  },
-  {
-    "iana": "Asia/Chongqing",
-    "name": "NOPE",
-    "abbrs": [
-      "CST"
-    ]
-  },
-  {
-    "iana": "Asia/Dacca",
-    "name": "NOPE",
-    "abbrs": [
-      "BDT"
     ]
   },
   {
@@ -651,22 +585,6 @@
     ]
   },
   {
-    "iana": "Asia/Gaza",
-    "name": "NOPE",
-    "abbrs": [
-      "EET",
-      "EEST"
-    ]
-  },
-  {
-    "iana": "Asia/Hebron",
-    "name": "NOPE",
-    "abbrs": [
-      "EET",
-      "EEST"
-    ]
-  },
-  {
     "iana": "Asia/Hong_Kong",
     "name": "China Standard Time",
     "abbrs": [
@@ -689,16 +607,8 @@
     ]
   },
   {
-    "iana": "Asia/Istanbul",
-    "name": "NOPE",
-    "abbrs": [
-      "EET",
-      "EEST"
-    ]
-  },
-  {
     "iana": "Asia/Jakarta",
-    "name": "NOPE",
+    "name": "SE Asia Standard Time",
     "abbrs": [
       "WIB"
     ]
@@ -727,7 +637,7 @@
   },
   {
     "iana": "Asia/Kamchatka",
-    "name": "NOPE",
+    "name": "Magadan Standard Time",
     "abbrs": [
       "PETT",
       "PETST"
@@ -741,22 +651,8 @@
     ]
   },
   {
-    "iana": "Asia/Kashgar",
-    "name": "NOPE",
-    "abbrs": [
-      "XJT"
-    ]
-  },
-  {
-    "iana": "Asia/Kathmandu",
-    "name": "NOPE",
-    "abbrs": [
-      "NPT"
-    ]
-  },
-  {
     "iana": "Asia/Khandyga",
-    "name": "NOPE",
+    "name": "Yakutsk Standard Time",
     "abbrs": [
       "VLAT",
       "VLAST",
@@ -773,7 +669,7 @@
   },
   {
     "iana": "Asia/Kuala_Lumpur",
-    "name": "NOPE",
+    "name": "Singapore Standard Time",
     "abbrs": [
       "MYT"
     ]
@@ -810,7 +706,7 @@
   },
   {
     "iana": "Asia/Novokuznetsk",
-    "name": "NOPE",
+    "name": "N. Central Asia Standard Time",
     "abbrs": [
       "KRAT",
       "NOVST",
@@ -827,7 +723,7 @@
   },
   {
     "iana": "Asia/Omsk",
-    "name": "NOPE",
+    "name": "N. Central Asia Standard Time",
     "abbrs": [
       "OMST",
       "OMSST"
@@ -835,7 +731,7 @@
   },
   {
     "iana": "Asia/Oral",
-    "name": "NOPE",
+    "name": "West Asia Standard Time",
     "abbrs": [
       "ORAT"
     ]
@@ -849,7 +745,7 @@
   },
   {
     "iana": "Asia/Qyzylorda",
-    "name": "NOPE",
+    "name": "Central Asia Standard Time",
     "abbrs": [
       "QYZT"
     ]
@@ -863,7 +759,7 @@
   },
   {
     "iana": "Asia/Sakhalin",
-    "name": "NOPE",
+    "name": "Vladivostok Standard Time",
     "abbrs": [
       "SAKT",
       "SAKST"
@@ -871,7 +767,7 @@
   },
   {
     "iana": "Asia/Samarkand",
-    "name": "NOPE",
+    "name": "West Asia Standard Time",
     "abbrs": [
       "UZT"
     ]
@@ -885,7 +781,7 @@
   },
   {
     "iana": "Asia/Srednekolymsk",
-    "name": "NOPE",
+    "name": "Magadan Standard Time",
     "abbrs": [
       "MAGT",
       "MAGST",
@@ -908,13 +804,6 @@
     ]
   },
   {
-    "iana": "Asia/Thimbu",
-    "name": "NOPE",
-    "abbrs": [
-      "BTT"
-    ]
-  },
-  {
     "iana": "Asia/Tokyo",
     "name": "Tokyo Standard Time",
     "abbrs": [
@@ -930,7 +819,7 @@
   },
   {
     "iana": "Asia/Ust-Nera",
-    "name": "NOPE",
+    "name": "Vladivostok Standard Time",
     "abbrs": [
       "MAGT",
       "MAGST",
@@ -993,26 +882,11 @@
     ]
   },
   {
-    "iana": "Atlantic/South_Georgia",
-    "name": "UTC-02",
-    "abbrs": [
-      "GST"
-    ]
-  },
-  {
     "iana": "Atlantic/Stanley",
     "name": "SA Eastern Standard Time",
     "abbrs": [
       "FKST",
       "FKT"
-    ]
-  },
-  {
-    "iana": "Australia/ACT",
-    "name": "NOPE",
-    "abbrs": [
-      "AEDT",
-      "AEST"
     ]
   },
   {
@@ -1038,245 +912,10 @@
     ]
   },
   {
-    "iana": "Australia/Eucla",
-    "name": "NOPE",
-    "abbrs": [
-      "ACWST"
-    ]
-  },
-  {
-    "iana": "Australia/LHI",
-    "name": "NOPE",
-    "abbrs": [
-      "LHDT",
-      "LHST"
-    ]
-  },
-  {
     "iana": "Australia/Perth",
     "name": "W. Australia Standard Time",
     "abbrs": [
       "AWST"
-    ]
-  },
-  {
-    "iana": "Chile/EasterIsland",
-    "name": "NOPE",
-    "abbrs": [
-      "EASST",
-      "EAST"
-    ]
-  },
-  {
-    "iana": "Eire",
-    "name": "NOPE",
-    "abbrs": [
-      "GMT",
-      "IST"
-    ]
-  },
-  {
-    "iana": "Etc/GMT+1",
-    "name": "Cape Verde Standard Time",
-    "abbrs": [
-      "GMT+1"
-    ]
-  },
-  {
-    "iana": "Etc/GMT+10",
-    "name": "Hawaiian Standard Time",
-    "abbrs": [
-      "GMT+10"
-    ]
-  },
-  {
-    "iana": "Etc/GMT+11",
-    "name": "UTC-11",
-    "abbrs": [
-      "GMT+11"
-    ]
-  },
-  {
-    "iana": "Etc/GMT+12",
-    "name": "Dateline Standard Time",
-    "abbrs": [
-      "GMT+12"
-    ]
-  },
-  {
-    "iana": "Etc/GMT+2",
-    "name": "UTC-02",
-    "abbrs": [
-      "GMT+2"
-    ]
-  },
-  {
-    "iana": "Etc/GMT+3",
-    "name": "SA Eastern Standard Time",
-    "abbrs": [
-      "GMT+3"
-    ]
-  },
-  {
-    "iana": "Etc/GMT+4",
-    "name": "SA Western Standard Time",
-    "abbrs": [
-      "GMT+4"
-    ]
-  },
-  {
-    "iana": "Etc/GMT+5",
-    "name": "SA Pacific Standard Time",
-    "abbrs": [
-      "GMT+5"
-    ]
-  },
-  {
-    "iana": "Etc/GMT+6",
-    "name": "Central America Standard Time",
-    "abbrs": [
-      "GMT+6"
-    ]
-  },
-  {
-    "iana": "Etc/GMT+7",
-    "name": "US Mountain Standard Time",
-    "abbrs": [
-      "GMT+7"
-    ]
-  },
-  {
-    "iana": "Etc/GMT+8",
-    "name": "NOPE",
-    "abbrs": [
-      "GMT+8"
-    ]
-  },
-  {
-    "iana": "Etc/GMT+9",
-    "name": "NOPE",
-    "abbrs": [
-      "GMT+9"
-    ]
-  },
-  {
-    "iana": "Etc/GMT-1",
-    "name": "W. Central Africa Standard Time",
-    "abbrs": [
-      "GMT-1"
-    ]
-  },
-  {
-    "iana": "Etc/GMT-10",
-    "name": "West Pacific Standard Time",
-    "abbrs": [
-      "GMT-10"
-    ]
-  },
-  {
-    "iana": "Etc/GMT-11",
-    "name": "Central Pacific Standard Time",
-    "abbrs": [
-      "GMT-11"
-    ]
-  },
-  {
-    "iana": "Etc/GMT-12",
-    "name": "UTC+12",
-    "abbrs": [
-      "GMT-12"
-    ]
-  },
-  {
-    "iana": "Etc/GMT-13",
-    "name": "Tonga Standard Time",
-    "abbrs": [
-      "GMT-13"
-    ]
-  },
-  {
-    "iana": "Etc/GMT-14",
-    "name": "Line Islands Standard Time",
-    "abbrs": [
-      "GMT-14"
-    ]
-  },
-  {
-    "iana": "Etc/GMT-2",
-    "name": "South Africa Standard Time",
-    "abbrs": [
-      "GMT-2"
-    ]
-  },
-  {
-    "iana": "Etc/GMT-3",
-    "name": "E. Africa Standard Time",
-    "abbrs": [
-      "GMT-3"
-    ]
-  },
-  {
-    "iana": "Etc/GMT-4",
-    "name": "Arabian Standard Time",
-    "abbrs": [
-      "GMT-4"
-    ]
-  },
-  {
-    "iana": "Etc/GMT-5",
-    "name": "West Asia Standard Time",
-    "abbrs": [
-      "GMT-5"
-    ]
-  },
-  {
-    "iana": "Etc/GMT-6",
-    "name": "Central Asia Standard Time",
-    "abbrs": [
-      "GMT-6"
-    ]
-  },
-  {
-    "iana": "Etc/GMT-7",
-    "name": "SE Asia Standard Time",
-    "abbrs": [
-      "GMT-7"
-    ]
-  },
-  {
-    "iana": "Etc/GMT-8",
-    "name": "Singapore Standard Time",
-    "abbrs": [
-      "GMT-8"
-    ]
-  },
-  {
-    "iana": "Etc/GMT-9",
-    "name": "Tokyo Standard Time",
-    "abbrs": [
-      "GMT-9"
-    ]
-  },
-  {
-    "iana": "Etc/UCT",
-    "name": "NOPE",
-    "abbrs": [
-      "UCT"
-    ]
-  },
-  {
-    "iana": "Etc/UTC",
-    "name": "NOPE",
-    "abbrs": [
-      "UTC"
-    ]
-  },
-  {
-    "iana": "Europe/Belfast",
-    "name": "NOPE",
-    "abbrs": [
-      "GMT",
-      "BST"
     ]
   },
   {
@@ -1308,7 +947,7 @@
   },
   {
     "iana": "Europe/Samara",
-    "name": "NOPE",
+    "name": "Russian Standard Time",
     "abbrs": [
       "SAMT",
       "SAMST"
@@ -1316,7 +955,7 @@
   },
   {
     "iana": "Europe/Simferopol",
-    "name": "NOPE",
+    "name": "Russian Standard Time",
     "abbrs": [
       "EET",
       "EEST",
@@ -1325,16 +964,9 @@
   },
   {
     "iana": "Europe/Volgograd",
-    "name": "NOPE",
+    "name": "Russian Standard Time",
     "abbrs": [
       "MSK"
-    ]
-  },
-  {
-    "iana": "HST",
-    "name": "NOPE",
-    "abbrs": [
-      "HST"
     ]
   },
   {
@@ -1394,29 +1026,6 @@
     ]
   },
   {
-    "iana": "Kwajalein",
-    "name": "NOPE",
-    "abbrs": [
-      "MHT"
-    ]
-  },
-  {
-    "iana": "MET",
-    "name": "NOPE",
-    "abbrs": [
-      "MET",
-      "MEST"
-    ]
-  },
-  {
-    "iana": "NZ-CHAT",
-    "name": "NOPE",
-    "abbrs": [
-      "CHADT",
-      "CHAST"
-    ]
-  },
-  {
     "iana": "Pacific/Apia",
     "name": "Samoa Standard Time",
     "abbrs": [
@@ -1424,21 +1033,6 @@
       "SDT",
       "WSDT",
       "WSST"
-    ]
-  },
-  {
-    "iana": "Pacific/Bougainville",
-    "name": "NOPE",
-    "abbrs": [
-      "PGT",
-      "BST"
-    ]
-  },
-  {
-    "iana": "Pacific/Chuuk",
-    "name": "NOPE",
-    "abbrs": [
-      "CHUT"
     ]
   },
   {
@@ -1471,24 +1065,10 @@
     ]
   },
   {
-    "iana": "Pacific/Funafuti",
-    "name": "UTC+12",
-    "abbrs": [
-      "TVT"
-    ]
-  },
-  {
     "iana": "Pacific/Galapagos",
     "name": "Central America Standard Time",
     "abbrs": [
       "GALT"
-    ]
-  },
-  {
-    "iana": "Pacific/Gambier",
-    "name": "NOPE",
-    "abbrs": [
-      "GAMT"
     ]
   },
   {
@@ -1514,44 +1094,9 @@
   },
   {
     "iana": "Pacific/Kosrae",
-    "name": "NOPE",
+    "name": "Central Pacific Standard Time",
     "abbrs": [
       "KOST"
-    ]
-  },
-  {
-    "iana": "Pacific/Marquesas",
-    "name": "NOPE",
-    "abbrs": [
-      "MART"
-    ]
-  },
-  {
-    "iana": "Pacific/Midway",
-    "name": "UTC-11",
-    "abbrs": [
-      "SST"
-    ]
-  },
-  {
-    "iana": "Pacific/Nauru",
-    "name": "UTC+12",
-    "abbrs": [
-      "NRT"
-    ]
-  },
-  {
-    "iana": "Pacific/Niue",
-    "name": "UTC-11",
-    "abbrs": [
-      "NUT"
-    ]
-  },
-  {
-    "iana": "Pacific/Norfolk",
-    "name": "NOPE",
-    "abbrs": [
-      "NFT"
     ]
   },
   {
@@ -1566,13 +1111,6 @@
     "name": "Tokyo Standard Time",
     "abbrs": [
       "PWT"
-    ]
-  },
-  {
-    "iana": "Pacific/Pohnpei",
-    "name": "NOPE",
-    "abbrs": [
-      "PONT"
     ]
   },
   {
@@ -1597,31 +1135,10 @@
     ]
   },
   {
-    "iana": "Pacific/Tarawa",
-    "name": "UTC+12",
-    "abbrs": [
-      "GILT"
-    ]
-  },
-  {
     "iana": "Pacific/Tongatapu",
     "name": "Tonga Standard Time",
     "abbrs": [
       "TOT"
-    ]
-  },
-  {
-    "iana": "Pacific/Wake",
-    "name": "UTC+12",
-    "abbrs": [
-      "WAKT"
-    ]
-  },
-  {
-    "iana": "Pacific/Wallis",
-    "name": "UTC+12",
-    "abbrs": [
-      "WFT"
     ]
   },
   {
@@ -1709,13 +1226,6 @@
     ]
   },
   {
-    "iana": "Africa/Timbuktu",
-    "name": "NOPE",
-    "abbrs": [
-      "GMT"
-    ]
-  },
-  {
     "iana": "America/Danmarkshavn",
     "name": "UTC",
     "abbrs": [
@@ -1741,83 +1251,6 @@
     "name": "UTC",
     "abbrs": [
       "GMT"
-    ]
-  },
-  {
-    "iana": "Etc/GMT+0",
-    "name": "NOPE",
-    "abbrs": [
-      "GMT"
-    ]
-  },
-  {
-    "iana": "Etc/GMT-0",
-    "name": "NOPE",
-    "abbrs": [
-      "GMT"
-    ]
-  },
-  {
-    "iana": "Etc/GMT0",
-    "name": "NOPE",
-    "abbrs": [
-      "GMT"
-    ]
-  },
-  {
-    "iana": "Etc/Greenwich",
-    "name": "NOPE",
-    "abbrs": [
-      "GMT"
-    ]
-  },
-  {
-    "iana": "GMT",
-    "name": "NOPE",
-    "abbrs": [
-      "GMT"
-    ]
-  },
-  {
-    "iana": "GMT+0",
-    "name": "NOPE",
-    "abbrs": [
-      "GMT"
-    ]
-  },
-  {
-    "iana": "GMT-0",
-    "name": "NOPE",
-    "abbrs": [
-      "GMT"
-    ]
-  },
-  {
-    "iana": "GMT0",
-    "name": "NOPE",
-    "abbrs": [
-      "GMT"
-    ]
-  },
-  {
-    "iana": "Greenwich",
-    "name": "NOPE",
-    "abbrs": [
-      "GMT"
-    ]
-  },
-  {
-    "iana": "Iceland",
-    "name": "NOPE",
-    "abbrs": [
-      "GMT"
-    ]
-  },
-  {
-    "iana": "Africa/Asmara",
-    "name": "NOPE",
-    "abbrs": [
-      "EAT"
     ]
   },
   {
@@ -2024,14 +1457,6 @@
     ]
   },
   {
-    "iana": "Egypt",
-    "name": "NOPE",
-    "abbrs": [
-      "EET",
-      "EEST"
-    ]
-  },
-  {
     "iana": "Africa/El_Aaiun",
     "name": "Morocco Standard Time",
     "abbrs": [
@@ -2042,22 +1467,6 @@
   {
     "iana": "Arctic/Longyearbyen",
     "name": "W. Europe Standard Time",
-    "abbrs": [
-      "CET",
-      "CEST"
-    ]
-  },
-  {
-    "iana": "Atlantic/Jan_Mayen",
-    "name": "NOPE",
-    "abbrs": [
-      "CET",
-      "CEST"
-    ]
-  },
-  {
-    "iana": "CET",
-    "name": "NOPE",
     "abbrs": [
       "CET",
       "CEST"
@@ -2121,7 +1530,7 @@
   },
   {
     "iana": "Europe/Busingen",
-    "name": "NOPE",
+    "name": "W. Europe Standard Time",
     "abbrs": [
       "CET",
       "CEST"
@@ -2161,7 +1570,7 @@
   },
   {
     "iana": "Europe/Madrid",
-    "name": "NOPE",
+    "name": "Romance Standard Time",
     "abbrs": [
       "CET",
       "CEST"
@@ -2312,14 +1721,6 @@
     ]
   },
   {
-    "iana": "Poland",
-    "name": "NOPE",
-    "abbrs": [
-      "CET",
-      "CEST"
-    ]
-  },
-  {
     "iana": "Africa/Maseru",
     "name": "South Africa Standard Time",
     "abbrs": [
@@ -2334,33 +1735,8 @@
     ]
   },
   {
-    "iana": "Libya",
-    "name": "NOPE",
-    "abbrs": [
-      "EET",
-      "CET",
-      "CEST"
-    ]
-  },
-  {
-    "iana": "America/Atka",
-    "name": "NOPE",
-    "abbrs": [
-      "HAST",
-      "HADT"
-    ]
-  },
-  {
-    "iana": "US/Aleutian",
-    "name": "NOPE",
-    "abbrs": [
-      "HAST",
-      "HADT"
-    ]
-  },
-  {
     "iana": "America/Juneau",
-    "name": "NOPE",
+    "name": "Alaskan Standard Time",
     "abbrs": [
       "AKST",
       "AKDT"
@@ -2368,7 +1744,7 @@
   },
   {
     "iana": "America/Nome",
-    "name": "NOPE",
+    "name": "Alaskan Standard Time",
     "abbrs": [
       "AKST",
       "AKDT"
@@ -2376,7 +1752,7 @@
   },
   {
     "iana": "America/Sitka",
-    "name": "NOPE",
+    "name": "Alaskan Standard Time",
     "abbrs": [
       "AKST",
       "AKDT"
@@ -2384,15 +1760,7 @@
   },
   {
     "iana": "America/Yakutat",
-    "name": "NOPE",
-    "abbrs": [
-      "AKST",
-      "AKDT"
-    ]
-  },
-  {
-    "iana": "US/Alaska",
-    "name": "NOPE",
+    "name": "Alaskan Standard Time",
     "abbrs": [
       "AKST",
       "AKDT"
@@ -2553,92 +1921,50 @@
     ]
   },
   {
-    "iana": "America/Virgin",
-    "name": "NOPE",
-    "abbrs": [
-      "AST"
-    ]
-  },
-  {
-    "iana": "America/Argentina/Catamarca",
-    "name": "NOPE",
-    "abbrs": [
-      "ART"
-    ]
-  },
-  {
-    "iana": "America/Argentina/ComodRivadavia",
-    "name": "NOPE",
-    "abbrs": [
-      "ART"
-    ]
-  },
-  {
-    "iana": "America/Argentina/Cordoba",
-    "name": "NOPE",
-    "abbrs": [
-      "ART"
-    ]
-  },
-  {
-    "iana": "America/Argentina/Jujuy",
-    "name": "NOPE",
-    "abbrs": [
-      "ART"
-    ]
-  },
-  {
     "iana": "America/Argentina/La_Rioja",
-    "name": "NOPE",
-    "abbrs": [
-      "ART"
-    ]
-  },
-  {
-    "iana": "America/Argentina/Mendoza",
-    "name": "NOPE",
+    "name": "Argentina Standard Time",
     "abbrs": [
       "ART"
     ]
   },
   {
     "iana": "America/Argentina/Rio_Gallegos",
-    "name": "NOPE",
+    "name": "Argentina Standard Time",
     "abbrs": [
       "ART"
     ]
   },
   {
     "iana": "America/Argentina/Salta",
-    "name": "NOPE",
+    "name": "Argentina Standard Time",
     "abbrs": [
       "ART"
     ]
   },
   {
     "iana": "America/Argentina/San_Juan",
-    "name": "NOPE",
+    "name": "Argentina Standard Time",
     "abbrs": [
       "ART"
     ]
   },
   {
     "iana": "America/Argentina/San_Luis",
-    "name": "NOPE",
+    "name": "Argentina Standard Time",
     "abbrs": [
       "ART"
     ]
   },
   {
     "iana": "America/Argentina/Tucuman",
-    "name": "NOPE",
+    "name": "Argentina Standard Time",
     "abbrs": [
       "ART"
     ]
   },
   {
     "iana": "America/Argentina/Ushuaia",
-    "name": "NOPE",
+    "name": "Argentina Standard Time",
     "abbrs": [
       "ART"
     ]
@@ -2652,35 +1978,28 @@
   },
   {
     "iana": "America/Catamarca",
-    "name": "NOPE",
+    "name": "Argentina Standard Time",
     "abbrs": [
       "ART"
     ]
   },
   {
     "iana": "America/Cordoba",
-    "name": "NOPE",
+    "name": "Argentina Standard Time",
     "abbrs": [
       "ART"
     ]
   },
   {
     "iana": "America/Jujuy",
-    "name": "NOPE",
+    "name": "Argentina Standard Time",
     "abbrs": [
       "ART"
     ]
   },
   {
     "iana": "America/Mendoza",
-    "name": "NOPE",
-    "abbrs": [
-      "ART"
-    ]
-  },
-  {
-    "iana": "America/Rosario",
-    "name": "NOPE",
+    "name": "Argentina Standard Time",
     "abbrs": [
       "ART"
     ]
@@ -2714,43 +2033,29 @@
     ]
   },
   {
-    "iana": "EST",
-    "name": "NOPE",
-    "abbrs": [
-      "EST"
-    ]
-  },
-  {
-    "iana": "Jamaica",
-    "name": "NOPE",
-    "abbrs": [
-      "EST"
-    ]
-  },
-  {
     "iana": "America/Fortaleza",
-    "name": "NOPE",
+    "name": "SA Eastern Standard Time",
     "abbrs": [
       "BRT"
     ]
   },
   {
     "iana": "America/Maceio",
-    "name": "NOPE",
+    "name": "SA Eastern Standard Time",
     "abbrs": [
       "BRT"
     ]
   },
   {
     "iana": "America/Recife",
-    "name": "NOPE",
+    "name": "SA Eastern Standard Time",
     "abbrs": [
       "BRT"
     ]
   },
   {
     "iana": "America/Santarem",
-    "name": "NOPE",
+    "name": "SA Eastern Standard Time",
     "abbrs": [
       "BRT"
     ]
@@ -2792,7 +2097,7 @@
   },
   {
     "iana": "America/Swift_Current",
-    "name": "NOPE",
+    "name": "Canada Central Standard Time",
     "abbrs": [
       "CST"
     ]
@@ -2805,43 +2110,22 @@
     ]
   },
   {
-    "iana": "Canada/East-Saskatchewan",
-    "name": "NOPE",
-    "abbrs": [
-      "CST"
-    ]
-  },
-  {
-    "iana": "Canada/Saskatchewan",
-    "name": "NOPE",
-    "abbrs": [
-      "CST"
-    ]
-  },
-  {
     "iana": "America/Manaus",
-    "name": "NOPE",
+    "name": "SA Western Standard Time",
     "abbrs": [
       "AMT"
     ]
   },
   {
     "iana": "America/Porto_Velho",
-    "name": "NOPE",
-    "abbrs": [
-      "AMT"
-    ]
-  },
-  {
-    "iana": "Brazil/West",
-    "name": "NOPE",
+    "name": "SA Western Standard Time",
     "abbrs": [
       "AMT"
     ]
   },
   {
     "iana": "America/Cambridge_Bay",
-    "name": "NOPE",
+    "name": "Mountain Standard Time",
     "abbrs": [
       "MST",
       "MDT"
@@ -2857,7 +2141,7 @@
   },
   {
     "iana": "America/Edmonton",
-    "name": "NOPE",
+    "name": "Mountain Standard Time",
     "abbrs": [
       "MST",
       "MDT"
@@ -2865,7 +2149,7 @@
   },
   {
     "iana": "America/Inuvik",
-    "name": "NOPE",
+    "name": "Mountain Standard Time",
     "abbrs": [
       "MST",
       "MDT"
@@ -2880,48 +2164,8 @@
     ]
   },
   {
-    "iana": "America/Shiprock",
-    "name": "NOPE",
-    "abbrs": [
-      "MST",
-      "MDT"
-    ]
-  },
-  {
     "iana": "America/Yellowknife",
-    "name": "NOPE",
-    "abbrs": [
-      "MST",
-      "MDT"
-    ]
-  },
-  {
-    "iana": "Canada/Mountain",
-    "name": "NOPE",
-    "abbrs": [
-      "MST",
-      "MDT"
-    ]
-  },
-  {
-    "iana": "MST7MDT",
     "name": "Mountain Standard Time",
-    "abbrs": [
-      "MST",
-      "MDT"
-    ]
-  },
-  {
-    "iana": "Navajo",
-    "name": "NOPE",
-    "abbrs": [
-      "MST",
-      "MDT"
-    ]
-  },
-  {
-    "iana": "US/Mountain",
-    "name": "NOPE",
     "abbrs": [
       "MST",
       "MDT"
@@ -2937,7 +2181,7 @@
   },
   {
     "iana": "America/Merida",
-    "name": "NOPE",
+    "name": "Central Standard Time (Mexico)",
     "abbrs": [
       "CST",
       "CDT"
@@ -2953,15 +2197,7 @@
   },
   {
     "iana": "America/Monterrey",
-    "name": "NOPE",
-    "abbrs": [
-      "CST",
-      "CDT"
-    ]
-  },
-  {
-    "iana": "Mexico/General",
-    "name": "NOPE",
+    "name": "Central Standard Time (Mexico)",
     "abbrs": [
       "CST",
       "CDT"
@@ -2969,7 +2205,7 @@
   },
   {
     "iana": "America/Indiana/Knox",
-    "name": "NOPE",
+    "name": "Central Standard Time",
     "abbrs": [
       "CST",
       "CDT"
@@ -2977,15 +2213,7 @@
   },
   {
     "iana": "America/Indiana/Tell_City",
-    "name": "NOPE",
-    "abbrs": [
-      "CST",
-      "CDT"
-    ]
-  },
-  {
-    "iana": "America/Knox_IN",
-    "name": "NOPE",
+    "name": "Central Standard Time",
     "abbrs": [
       "CST",
       "CDT"
@@ -3001,62 +2229,6 @@
   },
   {
     "iana": "America/Menominee",
-    "name": "NOPE",
-    "abbrs": [
-      "CST",
-      "CDT"
-    ]
-  },
-  {
-    "iana": "America/North_Dakota/Center",
-    "name": "NOPE",
-    "abbrs": [
-      "CST",
-      "CDT"
-    ]
-  },
-  {
-    "iana": "America/North_Dakota/New_Salem",
-    "name": "NOPE",
-    "abbrs": [
-      "CST",
-      "CDT"
-    ]
-  },
-  {
-    "iana": "America/Rainy_River",
-    "name": "NOPE",
-    "abbrs": [
-      "CST",
-      "CDT"
-    ]
-  },
-  {
-    "iana": "America/Rankin_Inlet",
-    "name": "NOPE",
-    "abbrs": [
-      "CST",
-      "CDT"
-    ]
-  },
-  {
-    "iana": "America/Resolute",
-    "name": "NOPE",
-    "abbrs": [
-      "CST",
-      "CDT"
-    ]
-  },
-  {
-    "iana": "America/Winnipeg",
-    "name": "NOPE",
-    "abbrs": [
-      "CST",
-      "CDT"
-    ]
-  },
-  {
-    "iana": "CST6CDT",
     "name": "Central Standard Time",
     "abbrs": [
       "CST",
@@ -3064,24 +2236,48 @@
     ]
   },
   {
-    "iana": "Canada/Central",
-    "name": "NOPE",
+    "iana": "America/North_Dakota/Center",
+    "name": "Central Standard Time",
     "abbrs": [
       "CST",
       "CDT"
     ]
   },
   {
-    "iana": "US/Central",
-    "name": "NOPE",
+    "iana": "America/North_Dakota/New_Salem",
+    "name": "Central Standard Time",
     "abbrs": [
       "CST",
       "CDT"
     ]
   },
   {
-    "iana": "US/Indiana-Starke",
-    "name": "NOPE",
+    "iana": "America/Rainy_River",
+    "name": "Central Standard Time",
+    "abbrs": [
+      "CST",
+      "CDT"
+    ]
+  },
+  {
+    "iana": "America/Rankin_Inlet",
+    "name": "Central Standard Time",
+    "abbrs": [
+      "CST",
+      "CDT"
+    ]
+  },
+  {
+    "iana": "America/Resolute",
+    "name": "Central Standard Time",
+    "abbrs": [
+      "CST",
+      "CDT"
+    ]
+  },
+  {
+    "iana": "America/Winnipeg",
+    "name": "Central Standard Time",
     "abbrs": [
       "CST",
       "CDT"
@@ -3089,15 +2285,7 @@
   },
   {
     "iana": "America/Mazatlan",
-    "name": "NOPE",
-    "abbrs": [
-      "MST",
-      "MDT"
-    ]
-  },
-  {
-    "iana": "Mexico/BajaSur",
-    "name": "NOPE",
+    "name": "Mountain Standard Time (Mexico)",
     "abbrs": [
       "MST",
       "MDT"
@@ -3105,7 +2293,7 @@
   },
   {
     "iana": "America/Dawson_Creek",
-    "name": "NOPE",
+    "name": "US Mountain Standard Time",
     "abbrs": [
       "MST"
     ]
@@ -3122,28 +2310,6 @@
     "name": "US Mountain Standard Time",
     "abbrs": [
       "MST"
-    ]
-  },
-  {
-    "iana": "MST",
-    "name": "NOPE",
-    "abbrs": [
-      "MST"
-    ]
-  },
-  {
-    "iana": "US/Arizona",
-    "name": "NOPE",
-    "abbrs": [
-      "MST"
-    ]
-  },
-  {
-    "iana": "America/Ensenada",
-    "name": "NOPE",
-    "abbrs": [
-      "PST",
-      "PDT"
     ]
   },
   {
@@ -3164,46 +2330,6 @@
   },
   {
     "iana": "America/Vancouver",
-    "name": "NOPE",
-    "abbrs": [
-      "PST",
-      "PDT"
-    ]
-  },
-  {
-    "iana": "America/Whitehorse",
-    "name": "NOPE",
-    "abbrs": [
-      "PST",
-      "PDT"
-    ]
-  },
-  {
-    "iana": "Canada/Pacific",
-    "name": "NOPE",
-    "abbrs": [
-      "PST",
-      "PDT"
-    ]
-  },
-  {
-    "iana": "Canada/Yukon",
-    "name": "NOPE",
-    "abbrs": [
-      "PST",
-      "PDT"
-    ]
-  },
-  {
-    "iana": "Mexico/BajaNorte",
-    "name": "NOPE",
-    "abbrs": [
-      "PST",
-      "PDT"
-    ]
-  },
-  {
-    "iana": "PST8PDT",
     "name": "Pacific Standard Time",
     "abbrs": [
       "PST",
@@ -3211,40 +2337,16 @@
     ]
   },
   {
-    "iana": "US/Pacific",
-    "name": "NOPE",
+    "iana": "America/Whitehorse",
+    "name": "Pacific Standard Time",
     "abbrs": [
       "PST",
       "PDT"
-    ]
-  },
-  {
-    "iana": "US/Pacific-New",
-    "name": "NOPE",
-    "abbrs": [
-      "PST",
-      "PDT"
-    ]
-  },
-  {
-    "iana": "America/Fort_Wayne",
-    "name": "NOPE",
-    "abbrs": [
-      "EST",
-      "EDT"
-    ]
-  },
-  {
-    "iana": "America/Indiana/Indianapolis",
-    "name": "NOPE",
-    "abbrs": [
-      "EST",
-      "EDT"
     ]
   },
   {
     "iana": "America/Indiana/Marengo",
-    "name": "NOPE",
+    "name": "US Eastern Standard Time",
     "abbrs": [
       "EST",
       "EDT"
@@ -3252,7 +2354,7 @@
   },
   {
     "iana": "America/Indiana/Petersburg",
-    "name": "NOPE",
+    "name": "Eastern Standard Time",
     "abbrs": [
       "EST",
       "EDT"
@@ -3260,7 +2362,7 @@
   },
   {
     "iana": "America/Indiana/Vevay",
-    "name": "NOPE",
+    "name": "US Eastern Standard Time",
     "abbrs": [
       "EST",
       "EDT"
@@ -3268,7 +2370,7 @@
   },
   {
     "iana": "America/Indiana/Vincennes",
-    "name": "NOPE",
+    "name": "Eastern Standard Time",
     "abbrs": [
       "EST",
       "EDT"
@@ -3276,7 +2378,7 @@
   },
   {
     "iana": "America/Indiana/Winamac",
-    "name": "NOPE",
+    "name": "Eastern Standard Time",
     "abbrs": [
       "EST",
       "EDT"
@@ -3292,15 +2394,7 @@
   },
   {
     "iana": "America/Iqaluit",
-    "name": "NOPE",
-    "abbrs": [
-      "EST",
-      "EDT"
-    ]
-  },
-  {
-    "iana": "America/Kentucky/Louisville",
-    "name": "NOPE",
+    "name": "Eastern Standard Time",
     "abbrs": [
       "EST",
       "EDT"
@@ -3308,7 +2402,7 @@
   },
   {
     "iana": "America/Kentucky/Monticello",
-    "name": "NOPE",
+    "name": "Eastern Standard Time",
     "abbrs": [
       "EST",
       "EDT"
@@ -3316,7 +2410,7 @@
   },
   {
     "iana": "America/Louisville",
-    "name": "NOPE",
+    "name": "Eastern Standard Time",
     "abbrs": [
       "EST",
       "EDT"
@@ -3324,7 +2418,7 @@
   },
   {
     "iana": "America/Montreal",
-    "name": "NOPE",
+    "name": "Eastern Standard Time",
     "abbrs": [
       "EST",
       "EDT"
@@ -3348,46 +2442,6 @@
   },
   {
     "iana": "America/Nipigon",
-    "name": "NOPE",
-    "abbrs": [
-      "EST",
-      "EDT"
-    ]
-  },
-  {
-    "iana": "America/Pangnirtung",
-    "name": "NOPE",
-    "abbrs": [
-      "EST",
-      "EDT"
-    ]
-  },
-  {
-    "iana": "America/Thunder_Bay",
-    "name": "NOPE",
-    "abbrs": [
-      "EST",
-      "EDT"
-    ]
-  },
-  {
-    "iana": "America/Toronto",
-    "name": "NOPE",
-    "abbrs": [
-      "EST",
-      "EDT"
-    ]
-  },
-  {
-    "iana": "Canada/Eastern",
-    "name": "NOPE",
-    "abbrs": [
-      "EST",
-      "EDT"
-    ]
-  },
-  {
-    "iana": "EST5EDT",
     "name": "Eastern Standard Time",
     "abbrs": [
       "EST",
@@ -3395,48 +2449,32 @@
     ]
   },
   {
-    "iana": "US/East-Indiana",
-    "name": "NOPE",
+    "iana": "America/Pangnirtung",
+    "name": "Eastern Standard Time",
     "abbrs": [
       "EST",
       "EDT"
     ]
   },
   {
-    "iana": "US/Eastern",
-    "name": "NOPE",
+    "iana": "America/Thunder_Bay",
+    "name": "Eastern Standard Time",
     "abbrs": [
       "EST",
       "EDT"
     ]
   },
   {
-    "iana": "US/Michigan",
-    "name": "NOPE",
+    "iana": "America/Toronto",
+    "name": "Eastern Standard Time",
     "abbrs": [
       "EST",
       "EDT"
-    ]
-  },
-  {
-    "iana": "America/Porto_Acre",
-    "name": "NOPE",
-    "abbrs": [
-      "AMT",
-      "ACT"
     ]
   },
   {
     "iana": "America/Rio_Branco",
-    "name": "NOPE",
-    "abbrs": [
-      "AMT",
-      "ACT"
-    ]
-  },
-  {
-    "iana": "Brazil/Acre",
-    "name": "NOPE",
+    "name": "SA Pacific Standard Time",
     "abbrs": [
       "AMT",
       "ACT"
@@ -3452,7 +2490,7 @@
   },
   {
     "iana": "America/Moncton",
-    "name": "NOPE",
+    "name": "Atlantic Standard Time",
     "abbrs": [
       "AST",
       "ADT"
@@ -3475,81 +2513,11 @@
     ]
   },
   {
-    "iana": "Canada/Atlantic",
-    "name": "NOPE",
-    "abbrs": [
-      "AST",
-      "ADT"
-    ]
-  },
-  {
-    "iana": "Cuba",
-    "name": "NOPE",
-    "abbrs": [
-      "CST",
-      "CDT"
-    ]
-  },
-  {
-    "iana": "Pacific/Pitcairn",
-    "name": "NOPE",
-    "abbrs": [
-      "PST"
-    ]
-  },
-  {
-    "iana": "Brazil/DeNoronha",
-    "name": "NOPE",
-    "abbrs": [
-      "FNT"
-    ]
-  },
-  {
     "iana": "Antarctica/Palmer",
     "name": "Pacific SA Standard Time",
     "abbrs": [
       "CLST",
       "CLT"
-    ]
-  },
-  {
-    "iana": "Chile/Continental",
-    "name": "NOPE",
-    "abbrs": [
-      "CLST",
-      "CLT"
-    ]
-  },
-  {
-    "iana": "Brazil/East",
-    "name": "NOPE",
-    "abbrs": [
-      "BRST",
-      "BRT"
-    ]
-  },
-  {
-    "iana": "Canada/Newfoundland",
-    "name": "NOPE",
-    "abbrs": [
-      "NST",
-      "NDT"
-    ]
-  },
-  {
-    "iana": "Antarctica/South_Pole",
-    "name": "NOPE",
-    "abbrs": [
-      "NZDT",
-      "NZST"
-    ]
-  },
-  {
-    "iana": "NZ",
-    "name": "NOPE",
-    "abbrs": [
-      "NZDT",
-      "NZST"
     ]
   },
   {
@@ -3597,23 +2565,9 @@
   },
   {
     "iana": "Asia/Aqtobe",
-    "name": "NOPE",
+    "name": "West Asia Standard Time",
     "abbrs": [
       "AQTT"
-    ]
-  },
-  {
-    "iana": "Asia/Ashkhabad",
-    "name": "NOPE",
-    "abbrs": [
-      "TMT"
-    ]
-  },
-  {
-    "iana": "Asia/Ho_Chi_Minh",
-    "name": "NOPE",
-    "abbrs": [
-      "ICT"
     ]
   },
   {
@@ -3645,34 +2599,6 @@
     ]
   },
   {
-    "iana": "Asia/Kolkata",
-    "name": "NOPE",
-    "abbrs": [
-      "IST"
-    ]
-  },
-  {
-    "iana": "Asia/Chungking",
-    "name": "NOPE",
-    "abbrs": [
-      "CST"
-    ]
-  },
-  {
-    "iana": "Asia/Harbin",
-    "name": "NOPE",
-    "abbrs": [
-      "CST"
-    ]
-  },
-  {
-    "iana": "Asia/Macao",
-    "name": "NOPE",
-    "abbrs": [
-      "CST"
-    ]
-  },
-  {
     "iana": "Asia/Macau",
     "name": "China Standard Time",
     "abbrs": [
@@ -3694,20 +2620,6 @@
     ]
   },
   {
-    "iana": "PRC",
-    "name": "NOPE",
-    "abbrs": [
-      "CST"
-    ]
-  },
-  {
-    "iana": "ROC",
-    "name": "NOPE",
-    "abbrs": [
-      "CST"
-    ]
-  },
-  {
     "iana": "Asia/Dhaka",
     "name": "Bangladesh Standard Time",
     "abbrs": [
@@ -3722,13 +2634,6 @@
     ]
   },
   {
-    "iana": "Hongkong",
-    "name": "NOPE",
-    "abbrs": [
-      "HKT"
-    ]
-  },
-  {
     "iana": "Europe/Istanbul",
     "name": "Turkey Standard Time",
     "abbrs": [
@@ -3737,34 +2642,10 @@
     ]
   },
   {
-    "iana": "Turkey",
-    "name": "NOPE",
-    "abbrs": [
-      "EET",
-      "EEST"
-    ]
-  },
-  {
     "iana": "Asia/Pontianak",
-    "name": "NOPE",
+    "name": "SE Asia Standard Time",
     "abbrs": [
       "WIB"
-    ]
-  },
-  {
-    "iana": "Asia/Tel_Aviv",
-    "name": "NOPE",
-    "abbrs": [
-      "IST",
-      "IDT"
-    ]
-  },
-  {
-    "iana": "Israel",
-    "name": "NOPE",
-    "abbrs": [
-      "IST",
-      "IDT"
     ]
   },
   {
@@ -3783,24 +2664,9 @@
   },
   {
     "iana": "Asia/Kuching",
-    "name": "NOPE",
+    "name": "Singapore Standard Time",
     "abbrs": [
       "MYT"
-    ]
-  },
-  {
-    "iana": "Asia/Ujung_Pandang",
-    "name": "NOPE",
-    "abbrs": [
-      "WITA"
-    ]
-  },
-  {
-    "iana": "EET",
-    "name": "NOPE",
-    "abbrs": [
-      "EET",
-      "EEST"
     ]
   },
   {
@@ -3852,14 +2718,6 @@
     ]
   },
   {
-    "iana": "Europe/Nicosia",
-    "name": "NOPE",
-    "abbrs": [
-      "EET",
-      "EEST"
-    ]
-  },
-  {
     "iana": "Europe/Riga",
     "name": "FLE Standard Time",
     "abbrs": [
@@ -3884,16 +2742,8 @@
     ]
   },
   {
-    "iana": "Europe/Tiraspol",
-    "name": "NOPE",
-    "abbrs": [
-      "EET",
-      "EEST"
-    ]
-  },
-  {
     "iana": "Europe/Uzhgorod",
-    "name": "NOPE",
+    "name": "FLE Standard Time",
     "abbrs": [
       "EET",
       "EEST"
@@ -3909,7 +2759,7 @@
   },
   {
     "iana": "Europe/Zaporozhye",
-    "name": "NOPE",
+    "name": "FLE Standard Time",
     "abbrs": [
       "EET",
       "EEST"
@@ -3923,13 +2773,6 @@
     ]
   },
   {
-    "iana": "ROK",
-    "name": "NOPE",
-    "abbrs": [
-      "KST"
-    ]
-  },
-  {
     "iana": "Asia/Tashkent",
     "name": "West Asia Standard Time",
     "abbrs": [
@@ -3937,39 +2780,10 @@
     ]
   },
   {
-    "iana": "Singapore",
-    "name": "NOPE",
-    "abbrs": [
-      "SGT"
-    ]
-  },
-  {
-    "iana": "Iran",
-    "name": "NOPE",
-    "abbrs": [
-      "IRST",
-      "IRDT"
-    ]
-  },
-  {
     "iana": "Asia/Thimphu",
     "name": "Bangladesh Standard Time",
     "abbrs": [
       "BTT"
-    ]
-  },
-  {
-    "iana": "Japan",
-    "name": "NOPE",
-    "abbrs": [
-      "JST"
-    ]
-  },
-  {
-    "iana": "Asia/Ulan_Bator",
-    "name": "NOPE",
-    "abbrs": [
-      "ULAT"
     ]
   },
   {
@@ -3981,16 +2795,8 @@
     ]
   },
   {
-    "iana": "Atlantic/Faroe",
-    "name": "NOPE",
-    "abbrs": [
-      "WET",
-      "WEST"
-    ]
-  },
-  {
     "iana": "Atlantic/Madeira",
-    "name": "NOPE",
+    "name": "GMT Standard Time",
     "abbrs": [
       "WET",
       "WEST"
@@ -3998,39 +2804,15 @@
   },
   {
     "iana": "Europe/Lisbon",
-    "name": "NOPE",
+    "name": "GMT Standard Time",
     "abbrs": [
       "WET",
       "WEST"
-    ]
-  },
-  {
-    "iana": "Portugal",
-    "name": "NOPE",
-    "abbrs": [
-      "WET",
-      "WEST"
-    ]
-  },
-  {
-    "iana": "WET",
-    "name": "NOPE",
-    "abbrs": [
-      "WET",
-      "WEST"
-    ]
-  },
-  {
-    "iana": "Australia/Canberra",
-    "name": "NOPE",
-    "abbrs": [
-      "AEDT",
-      "AEST"
     ]
   },
   {
     "iana": "Australia/Currie",
-    "name": "NOPE",
+    "name": "Tasmania Standard Time",
     "abbrs": [
       "AEDT",
       "AEST"
@@ -4046,15 +2828,7 @@
   },
   {
     "iana": "Australia/Melbourne",
-    "name": "NOPE",
-    "abbrs": [
-      "AEDT",
-      "AEST"
-    ]
-  },
-  {
-    "iana": "Australia/NSW",
-    "name": "NOPE",
+    "name": "AUS Eastern Standard Time",
     "abbrs": [
       "AEDT",
       "AEST"
@@ -4069,40 +2843,8 @@
     ]
   },
   {
-    "iana": "Australia/Tasmania",
-    "name": "NOPE",
-    "abbrs": [
-      "AEDT",
-      "AEST"
-    ]
-  },
-  {
-    "iana": "Australia/Victoria",
-    "name": "NOPE",
-    "abbrs": [
-      "AEDT",
-      "AEST"
-    ]
-  },
-  {
     "iana": "Australia/Broken_Hill",
-    "name": "NOPE",
-    "abbrs": [
-      "ACDT",
-      "ACST"
-    ]
-  },
-  {
-    "iana": "Australia/South",
-    "name": "NOPE",
-    "abbrs": [
-      "ACDT",
-      "ACST"
-    ]
-  },
-  {
-    "iana": "Australia/Yancowinna",
-    "name": "NOPE",
+    "name": "Cen. Australia Standard Time",
     "abbrs": [
       "ACDT",
       "ACST"
@@ -4110,46 +2852,9 @@
   },
   {
     "iana": "Australia/Lindeman",
-    "name": "NOPE",
+    "name": "E. Australia Standard Time",
     "abbrs": [
       "AEST"
-    ]
-  },
-  {
-    "iana": "Australia/Queensland",
-    "name": "NOPE",
-    "abbrs": [
-      "AEST"
-    ]
-  },
-  {
-    "iana": "Australia/North",
-    "name": "NOPE",
-    "abbrs": [
-      "ACST"
-    ]
-  },
-  {
-    "iana": "Australia/Lord_Howe",
-    "name": "NOPE",
-    "abbrs": [
-      "LHDT",
-      "LHST"
-    ]
-  },
-  {
-    "iana": "Australia/West",
-    "name": "NOPE",
-    "abbrs": [
-      "AWST"
-    ]
-  },
-  {
-    "iana": "Pacific/Easter",
-    "name": "NOPE",
-    "abbrs": [
-      "EASST",
-      "EAST"
     ]
   },
   {
@@ -4158,48 +2863,6 @@
     "abbrs": [
       "GMT",
       "IST"
-    ]
-  },
-  {
-    "iana": "UCT",
-    "name": "NOPE",
-    "abbrs": [
-      "UCT"
-    ]
-  },
-  {
-    "iana": "Etc/Universal",
-    "name": "NOPE",
-    "abbrs": [
-      "UTC"
-    ]
-  },
-  {
-    "iana": "Etc/Zulu",
-    "name": "NOPE",
-    "abbrs": [
-      "UTC"
-    ]
-  },
-  {
-    "iana": "UTC",
-    "name": "NOPE",
-    "abbrs": [
-      "UTC"
-    ]
-  },
-  {
-    "iana": "Universal",
-    "name": "NOPE",
-    "abbrs": [
-      "UTC"
-    ]
-  },
-  {
-    "iana": "Zulu",
-    "name": "NOPE",
-    "abbrs": [
-      "UTC"
     ]
   },
   {
@@ -4235,30 +2898,6 @@
     ]
   },
   {
-    "iana": "GB",
-    "name": "NOPE",
-    "abbrs": [
-      "GMT",
-      "BST"
-    ]
-  },
-  {
-    "iana": "GB-Eire",
-    "name": "NOPE",
-    "abbrs": [
-      "GMT",
-      "BST"
-    ]
-  },
-  {
-    "iana": "W-SU",
-    "name": "NOPE",
-    "abbrs": [
-      "MSK",
-      "MSD"
-    ]
-  },
-  {
     "iana": "Pacific/Honolulu",
     "name": "Hawaiian Standard Time",
     "abbrs": [
@@ -4273,44 +2912,8 @@
     ]
   },
   {
-    "iana": "US/Hawaii",
-    "name": "NOPE",
-    "abbrs": [
-      "HST"
-    ]
-  },
-  {
-    "iana": "Pacific/Kwajalein",
-    "name": "NOPE",
-    "abbrs": [
-      "MHT"
-    ]
-  },
-  {
-    "iana": "Pacific/Majuro",
-    "name": "NOPE",
-    "abbrs": [
-      "MHT"
-    ]
-  },
-  {
-    "iana": "Pacific/Chatham",
-    "name": "NOPE",
-    "abbrs": [
-      "CHADT",
-      "CHAST"
-    ]
-  },
-  {
     "iana": "Pacific/Truk",
     "name": "West Pacific Standard Time",
-    "abbrs": [
-      "CHUT"
-    ]
-  },
-  {
-    "iana": "Pacific/Yap",
-    "name": "NOPE",
     "abbrs": [
       "CHUT"
     ]
@@ -4323,29 +2926,8 @@
     ]
   },
   {
-    "iana": "Pacific/Pago_Pago",
-    "name": "UTC-11",
-    "abbrs": [
-      "SST"
-    ]
-  },
-  {
-    "iana": "Pacific/Samoa",
-    "name": "NOPE",
-    "abbrs": [
-      "SST"
-    ]
-  },
-  {
-    "iana": "US/Samoa",
-    "name": "NOPE",
-    "abbrs": [
-      "SST"
-    ]
-  },
-  {
     "iana": "Pacific/Ponape",
-    "name": "NOPE",
+    "name": "Central Pacific Standard Time",
     "abbrs": [
       "PONT"
     ]

@@ -9,7 +9,7 @@ with open('moment-iana-abbr.json') as json_data1:
         def find_name(iana):
             name = 'NOPE'
             for x in name_to_abbr:
-                if x["mapZone"]["_type"] == iana:
+                if iana in x["mapZone"]["_type"].split(' '):
                     name = x["mapZone"]["_other"]
             return name
 
