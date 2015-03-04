@@ -295,11 +295,6 @@
     "iana": "America/Anchorage"
   },
   {
-    "name": "Alaskan Standard Time",
-    "abbr": "AKST",
-    "iana": "America/Anchorage America/Juneau America/Nome America/Sitka America/Yakutat"
-  },
-  {
     "name": "SA Western Standard Time",
     "abbr": "BOT",
     "iana": "America/Anguilla"
@@ -365,11 +360,6 @@
     "iana": "America/Buenos_Aires"
   },
   {
-    "name": "Argentina Standard Time",
-    "abbr": "ART",
-    "iana": "America/Buenos_Aires America/Argentina/La_Rioja America/Argentina/Rio_Gallegos America/Argentina/Salta America/Argentina/San_Juan America/Argentina/San_Luis America/Argentina/Tucuman America/Argentina/Ushuaia America/Catamarca America/Cordoba America/Jujuy America/Mendoza"
-  },
-  {
     "name": "Venezuela Standard Time",
     "abbr": "VET",
     "iana": "America/Caracas"
@@ -400,19 +390,9 @@
     "iana": "America/Chicago"
   },
   {
-    "name": "Central Standard Time",
-    "abbr": "CST",
-    "iana": "America/Chicago America/Indiana/Knox America/Indiana/Tell_City America/Menominee America/North_Dakota/Beulah America/North_Dakota/Center America/North_Dakota/New_Salem"
-  },
-  {
-    "name": "Mountain Standard Time (Mexico)",
+    "name": "Mountain Standard Time",
     "abbr": "MST",
     "iana": "America/Chihuahua"
-  },
-  {
-    "name": "Mountain Standard Time (Mexico)",
-    "abbr": "MST",
-    "iana": "America/Chihuahua America/Mazatlan"
   },
   {
     "name": "SA Pacific Standard Time",
@@ -430,24 +410,9 @@
     "iana": "America/Cuiaba"
   },
   {
-    "name": "Central Brazilian Standard Time",
-    "abbr": "BRT",
-    "iana": "America/Cuiaba America/Campo_Grande"
-  },
-  {
     "name": "SA Western Standard Time",
     "abbr": "BOT",
     "iana": "America/Curacao"
-  },
-  {
-    "name": "UTC",
-    "abbr": "UTC",
-    "iana": "America/Danmarkshavn"
-  },
-  {
-    "name": "US Mountain Standard Time",
-    "abbr": "MST",
-    "iana": "America/Dawson_Creek America/Creston"
   },
   {
     "name": "Mountain Standard Time",
@@ -455,29 +420,14 @@
     "iana": "America/Denver"
   },
   {
-    "name": "Mountain Standard Time",
-    "abbr": "MST",
-    "iana": "America/Denver America/Boise"
-  },
-  {
     "name": "SA Western Standard Time",
     "abbr": "BOT",
     "iana": "America/Dominica"
   },
   {
-    "name": "Mountain Standard Time",
-    "abbr": "MST",
-    "iana": "America/Edmonton America/Cambridge_Bay America/Inuvik America/Yellowknife"
-  },
-  {
     "name": "Central America Standard Time",
     "abbr": "CST",
     "iana": "America/El_Salvador"
-  },
-  {
-    "name": "SA Eastern Standard Time",
-    "abbr": "ART",
-    "iana": "America/Fortaleza America/Araguaina America/Belem America/Maceio America/Recife America/Santarem"
   },
   {
     "name": "Greenland Standard Time",
@@ -510,11 +460,6 @@
     "iana": "America/Guatemala"
   },
   {
-    "name": "Central America Standard Time",
-    "abbr": "CST",
-    "iana": "America/Guatemala"
-  },
-  {
     "name": "SA Pacific Standard Time",
     "abbr": "COT",
     "iana": "America/Guayaquil"
@@ -530,29 +475,19 @@
     "iana": "America/Halifax"
   },
   {
-    "name": "Atlantic Standard Time",
-    "abbr": "AST",
-    "iana": "America/Halifax America/Glace_Bay America/Goose_Bay America/Moncton"
-  },
-  {
     "name": "Eastern Standard Time",
     "abbr": "EST",
     "iana": "America/Havana"
   },
   {
-    "name": "US Mountain Standard Time",
+    "name": "Mountain Standard Time",
     "abbr": "MST",
     "iana": "America/Hermosillo"
   },
   {
-    "name": "US Eastern Standard Time",
+    "name": "Eastern Standard Time",
     "abbr": "EST",
     "iana": "America/Indianapolis"
-  },
-  {
-    "name": "US Eastern Standard Time",
-    "abbr": "EST",
-    "iana": "America/Indianapolis America/Indiana/Marengo America/Indiana/Vevay"
   },
   {
     "name": "SA Pacific Standard Time",
@@ -602,11 +537,6 @@
   {
     "name": "SA Western Standard Time",
     "abbr": "BOT",
-    "iana": "America/Manaus America/Boa_Vista America/Porto_Velho"
-  },
-  {
-    "name": "SA Western Standard Time",
-    "abbr": "BOT",
     "iana": "America/Marigot"
   },
   {
@@ -620,14 +550,9 @@
     "iana": "America/Matamoros"
   },
   {
-    "name": "Central Standard Time (Mexico)",
+    "name": "Central Standard Time",
     "abbr": "CST",
     "iana": "America/Mexico_City"
-  },
-  {
-    "name": "Central Standard Time (Mexico)",
-    "abbr": "CST",
-    "iana": "America/Mexico_City America/Bahia_Banderas America/Cancun America/Merida America/Monterrey"
   },
   {
     "name": "Montevideo Standard Time",
@@ -655,16 +580,6 @@
     "iana": "America/New_York"
   },
   {
-    "name": "Eastern Standard Time",
-    "abbr": "EST",
-    "iana": "America/New_York America/Detroit America/Indiana/Petersburg America/Indiana/Vincennes America/Indiana/Winamac America/Kentucky/Monticello America/Louisville"
-  },
-  {
-    "name": "UTC-02",
-    "abbr": "DELETE",
-    "iana": "America/Noronha"
-  },
-  {
     "name": "Mountain Standard Time",
     "abbr": "MST",
     "iana": "America/Ojinaga"
@@ -680,12 +595,12 @@
     "iana": "America/Paramaribo"
   },
   {
-    "name": "US Mountain Standard Time",
+    "name": "Mountain Standard Time",
     "abbr": "MST",
     "iana": "America/Phoenix"
   },
   {
-    "name": "US Mountain Standard Time",
+    "name": "Mountain Standard Time",
     "abbr": "MST",
     "iana": "America/Phoenix"
   },
@@ -710,22 +625,12 @@
     "iana": "America/Regina"
   },
   {
-    "name": "Canada Central Standard Time",
-    "abbr": "CST",
-    "iana": "America/Regina America/Swift_Current"
-  },
-  {
-    "name": "SA Pacific Standard Time",
-    "abbr": "COT",
-    "iana": "America/Rio_Branco America/Eirunepe"
-  },
-  {
-    "name": "Pacific Standard Time (Mexico)",
+    "name": "Pacific Standard Time",
     "abbr": "PST",
     "iana": "America/Santa_Isabel"
   },
   {
-    "name": "Pacific Standard Time (Mexico)",
+    "name": "Pacific Standard Time",
     "abbr": "PST",
     "iana": "America/Santa_Isabel"
   },
@@ -810,11 +715,6 @@
     "iana": "America/Tijuana"
   },
   {
-    "name": "Eastern Standard Time",
-    "abbr": "EST",
-    "iana": "America/Toronto America/Iqaluit America/Montreal America/Nipigon America/Pangnirtung America/Thunder_Bay"
-  },
-  {
     "name": "SA Western Standard Time",
     "abbr": "BOT",
     "iana": "America/Tortola"
@@ -822,12 +722,12 @@
   {
     "name": "Pacific Standard Time",
     "abbr": "PST",
-    "iana": "America/Vancouver America/Dawson America/Whitehorse"
+    "iana": "America/Vancouver"
   },
   {
     "name": "Central Standard Time",
     "abbr": "CST",
-    "iana": "America/Winnipeg America/Rainy_River America/Rankin_Inlet America/Resolute"
+    "iana": "America/Winnipeg"
   },
   {
     "name": "W. Australia Standard Time",
@@ -1052,7 +952,7 @@
   {
     "name": "SE Asia Standard Time",
     "abbr": "ICT",
-    "iana": "Asia/Jakarta Asia/Pontianak"
+    "iana": "Asia/Jakarta"
   },
   {
     "name": "Tokyo Standard Time",
@@ -1085,11 +985,6 @@
     "iana": "Asia/Karachi"
   },
   {
-    "name": "Pakistan Standard Time",
-    "abbr": "PKT",
-    "iana": "Asia/Karachi"
-  },
-  {
     "name": "Nepal Standard Time",
     "abbr": "NPT",
     "iana": "Asia/Katmandu"
@@ -1112,7 +1007,7 @@
   {
     "name": "Singapore Standard Time",
     "abbr": "SST",
-    "iana": "Asia/Kuala_Lumpur Asia/Kuching"
+    "iana": "Asia/Kuala_Lumpur"
   },
   {
     "name": "Arab Standard Time",
@@ -1132,7 +1027,7 @@
   {
     "name": "Magadan Standard Time",
     "abbr": "MAGT",
-    "iana": "Asia/Magadan Asia/Anadyr Asia/Kamchatka Asia/Srednekolymsk"
+    "iana": "Asia/Magadan"
   },
   {
     "name": "Singapore Standard Time",
@@ -1160,14 +1055,9 @@
     "iana": "Asia/Novosibirsk"
   },
   {
-    "name": "N. Central Asia Standard Time",
-    "abbr": "NOVT",
-    "iana": "Asia/Novosibirsk Asia/Novokuznetsk Asia/Omsk"
-  },
-  {
     "name": "West Asia Standard Time",
     "abbr": "PKT",
-    "iana": "Asia/Oral Asia/Aqtau Asia/Aqtobe"
+    "iana": "Asia/Oral"
   },
   {
     "name": "SE Asia Standard Time",
@@ -1257,22 +1147,12 @@
   {
     "name": "West Asia Standard Time",
     "abbr": "PKT",
-    "iana": "Asia/Tashkent Asia/Samarkand"
+    "iana": "Asia/Tashkent"
   },
   {
     "name": "Georgian Standard Time",
     "abbr": "GET",
     "iana": "Asia/Tbilisi"
-  },
-  {
-    "name": "Georgian Standard Time",
-    "abbr": "GET",
-    "iana": "Asia/Tbilisi"
-  },
-  {
-    "name": "Iran Standard Time",
-    "abbr": "IRST",
-    "iana": "Asia/Tehran"
   },
   {
     "name": "Iran Standard Time",
@@ -1300,11 +1180,6 @@
     "iana": "Asia/Ulaanbaatar"
   },
   {
-    "name": "Ulaanbaatar Standard Time",
-    "abbr": "ULAT",
-    "iana": "Asia/Ulaanbaatar Asia/Choibalsan"
-  },
-  {
     "name": "Central Asia Standard Time",
     "abbr": "ALMT",
     "iana": "Asia/Urumqi"
@@ -1320,19 +1195,9 @@
     "iana": "Asia/Vladivostok"
   },
   {
-    "name": "Vladivostok Standard Time",
-    "abbr": "VLAT",
-    "iana": "Asia/Vladivostok Asia/Sakhalin Asia/Ust-Nera"
-  },
-  {
     "name": "Yakutsk Standard Time",
     "abbr": "YAKT",
     "iana": "Asia/Yakutsk"
-  },
-  {
-    "name": "Yakutsk Standard Time",
-    "abbr": "YAKT",
-    "iana": "Asia/Yakutsk Asia/Chita Asia/Khandyga"
   },
   {
     "name": "Ekaterinburg Standard Time",
@@ -1400,11 +1265,6 @@
     "iana": "Atlantic/Reykjavik"
   },
   {
-    "name": "UTC-02",
-    "abbr": "DELETE",
-    "iana": "Atlantic/South_Georgia"
-  },
-  {
     "name": "Greenwich Standard Time",
     "abbr": "GMT",
     "iana": "Atlantic/St_Helena"
@@ -1420,19 +1280,9 @@
     "iana": "Australia/Adelaide"
   },
   {
-    "name": "Cen. Australia Standard Time",
-    "abbr": "CST",
-    "iana": "Australia/Adelaide Australia/Broken_Hill"
-  },
-  {
     "name": "E. Australia Standard Time",
     "abbr": "EST",
     "iana": "Australia/Brisbane"
-  },
-  {
-    "name": "E. Australia Standard Time",
-    "abbr": "EST",
-    "iana": "Australia/Brisbane Australia/Lindeman"
   },
   {
     "name": "AUS Central Standard Time",
@@ -1450,11 +1300,6 @@
     "iana": "Australia/Hobart"
   },
   {
-    "name": "Tasmania Standard Time",
-    "abbr": "EST",
-    "iana": "Australia/Hobart Australia/Currie"
-  },
-  {
     "name": "W. Australia Standard Time",
     "abbr": "CWST",
     "iana": "Australia/Perth"
@@ -1470,11 +1315,6 @@
     "iana": "Australia/Sydney"
   },
   {
-    "name": "AUS Eastern Standard Time",
-    "abbr": "EST",
-    "iana": "Australia/Sydney Australia/Melbourne"
-  },
-  {
     "name": "Central Standard Time",
     "abbr": "CST",
     "iana": "CST6CDT"
@@ -1485,16 +1325,6 @@
     "iana": "EST5EDT"
   },
   {
-    "name": "UTC",
-    "abbr": "UTC",
-    "iana": "Etc/GMT"
-  },
-  {
-    "name": "UTC",
-    "abbr": "UTC",
-    "iana": "Etc/GMT"
-  },
-  {
     "name": "Cape Verde Standard Time",
     "abbr": "CVT",
     "iana": "Etc/GMT+1"
@@ -1503,36 +1333,6 @@
     "name": "Hawaiian Standard Time",
     "abbr": "HAST",
     "iana": "Etc/GMT+10"
-  },
-  {
-    "name": "UTC-11",
-    "abbr": "UTC-11",
-    "iana": "Etc/GMT+11"
-  },
-  {
-    "name": "UTC-11",
-    "abbr": "UTC-11",
-    "iana": "Etc/GMT+11"
-  },
-  {
-    "name": "Dateline Standard Time",
-    "abbr": "DELETEME",
-    "iana": "Etc/GMT+12"
-  },
-  {
-    "name": "Dateline Standard Time",
-    "abbr": "DELETEME",
-    "iana": "Etc/GMT+12"
-  },
-  {
-    "name": "UTC-02",
-    "abbr": "DELETE",
-    "iana": "Etc/GMT+2"
-  },
-  {
-    "name": "UTC-02",
-    "abbr": "DELETE",
-    "iana": "Etc/GMT+2"
   },
   {
     "name": "SA Eastern Standard Time",
@@ -1555,7 +1355,7 @@
     "iana": "Etc/GMT+6"
   },
   {
-    "name": "US Mountain Standard Time",
+    "name": "Mountain Standard Time",
     "abbr": "MST",
     "iana": "Etc/GMT+7"
   },
@@ -1573,16 +1373,6 @@
     "name": "Central Pacific Standard Time",
     "abbr": "MAGT",
     "iana": "Etc/GMT-11"
-  },
-  {
-    "name": "UTC+12",
-    "abbr": "DELETEME",
-    "iana": "Etc/GMT-12"
-  },
-  {
-    "name": "UTC+12",
-    "abbr": "DELETEME",
-    "iana": "Etc/GMT-12"
   },
   {
     "name": "Tonga Standard Time",
@@ -1658,11 +1448,6 @@
     "name": "W. Europe Standard Time",
     "abbr": "CET",
     "iana": "Europe/Berlin"
-  },
-  {
-    "name": "W. Europe Standard Time",
-    "abbr": "CET",
-    "iana": "Europe/Berlin Europe/Busingen"
   },
   {
     "name": "Central Europe Standard Time",
@@ -1760,16 +1545,6 @@
     "iana": "Europe/Kiev"
   },
   {
-    "name": "FLE Standard Time",
-    "abbr": "EET",
-    "iana": "Europe/Kiev Europe/Uzhgorod Europe/Zaporozhye"
-  },
-  {
-    "name": "GMT Standard Time",
-    "abbr": "GMT",
-    "iana": "Europe/Lisbon Atlantic/Madeira"
-  },
-  {
     "name": "Central Europe Standard Time",
     "abbr": "CET",
     "iana": "Europe/Ljubljana"
@@ -1788,11 +1563,6 @@
     "name": "W. Europe Standard Time",
     "abbr": "CET",
     "iana": "Europe/Luxembourg"
-  },
-  {
-    "name": "Romance Standard Time",
-    "abbr": "CET",
-    "iana": "Europe/Madrid Africa/Ceuta"
   },
   {
     "name": "W. Europe Standard Time",
@@ -1818,11 +1588,6 @@
     "name": "Russian Standard Time",
     "abbr": "MSK",
     "iana": "Europe/Moscow"
-  },
-  {
-    "name": "Russian Standard Time",
-    "abbr": "MSK",
-    "iana": "Europe/Moscow Europe/Samara Europe/Simferopol Europe/Volgograd"
   },
   {
     "name": "W. Europe Standard Time",
@@ -1995,16 +1760,6 @@
     "iana": "Indian/Reunion"
   },
   {
-    "name": "Mountain Standard Time",
-    "abbr": "MST",
-    "iana": "MST7MDT"
-  },
-  {
-    "name": "Pacific Standard Time",
-    "abbr": "PST",
-    "iana": "PST8PDT"
-  },
-  {
     "name": "Samoa Standard Time",
     "abbr": "SST",
     "iana": "Pacific/Apia"
@@ -2045,16 +1800,6 @@
     "iana": "Pacific/Fiji"
   },
   {
-    "name": "Fiji Standard Time",
-    "abbr": "FJT",
-    "iana": "Pacific/Fiji"
-  },
-  {
-    "name": "UTC+12",
-    "abbr": "DELETEME",
-    "iana": "Pacific/Funafuti"
-  },
-  {
     "name": "Central America Standard Time",
     "abbr": "CST",
     "iana": "Pacific/Galapagos"
@@ -2065,19 +1810,9 @@
     "iana": "Pacific/Guadalcanal"
   },
   {
-    "name": "Central Pacific Standard Time",
-    "abbr": "MAGT",
-    "iana": "Pacific/Guadalcanal"
-  },
-  {
     "name": "West Pacific Standard Time",
     "abbr": "ChST",
     "iana": "Pacific/Guam"
-  },
-  {
-    "name": "Hawaiian Standard Time",
-    "abbr": "HAST",
-    "iana": "Pacific/Honolulu"
   },
   {
     "name": "Hawaiian Standard Time",
@@ -2100,44 +1835,14 @@
     "iana": "Pacific/Kiritimati"
   },
   {
-    "name": "UTC+12",
-    "abbr": "DELETEME",
-    "iana": "Pacific/Majuro Pacific/Kwajalein"
-  },
-  {
-    "name": "UTC-11",
-    "abbr": "UTC-11",
-    "iana": "Pacific/Midway"
-  },
-  {
-    "name": "UTC+12",
-    "abbr": "DELETEME",
-    "iana": "Pacific/Nauru"
-  },
-  {
-    "name": "UTC-11",
-    "abbr": "UTC-11",
-    "iana": "Pacific/Niue"
-  },
-  {
     "name": "Central Pacific Standard Time",
     "abbr": "MAGT",
     "iana": "Pacific/Noumea"
   },
   {
-    "name": "UTC-11",
-    "abbr": "UTC-11",
-    "iana": "Pacific/Pago_Pago"
-  },
-  {
     "name": "Tokyo Standard Time",
     "abbr": "JST",
     "iana": "Pacific/Palau"
-  },
-  {
-    "name": "Central Pacific Standard Time",
-    "abbr": "MAGT",
-    "iana": "Pacific/Ponape Pacific/Kosrae"
   },
   {
     "name": "West Pacific Standard Time",
@@ -2165,11 +1870,6 @@
     "iana": "Pacific/Tahiti"
   },
   {
-    "name": "UTC+12",
-    "abbr": "DELETEME",
-    "iana": "Pacific/Tarawa"
-  },
-  {
     "name": "Tonga Standard Time",
     "abbr": "TOT",
     "iana": "Pacific/Tongatapu"
@@ -2183,15 +1883,5 @@
     "name": "West Pacific Standard Time",
     "abbr": "ChST",
     "iana": "Pacific/Truk"
-  },
-  {
-    "name": "UTC+12",
-    "abbr": "DELETEME",
-    "iana": "Pacific/Wake"
-  },
-  {
-    "name": "UTC+12",
-    "abbr": "DELETEME",
-    "iana": "Pacific/Wallis"
   }
 ]
