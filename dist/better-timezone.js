@@ -1,5 +1,5 @@
 /*
- *  better-timezone - v0.0.1
+ *  better-timezone - v0.0.2
  *  A jquery plugin for making sane timezone selects.
  *  https://www.claralabs.com
  *
