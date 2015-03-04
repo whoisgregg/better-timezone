@@ -1,12 +1,14 @@
 {
   "name": "better-timezone",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A jquery plugin for making sane timezone selects.",
   "keywords": [
     "jquery-plugin",
     "jquery",
     "plugins",
-    "timezone"
+    "timezone",
+    "selector",
+    "select"
   ],
   "repository": {
     "type": "git",
