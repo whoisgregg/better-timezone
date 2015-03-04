@@ -1,4 +1,4 @@
-# Better Timezone [![Build Status](https://secure.travis-ci.org/jquery-boilerplate/jquery-boilerplate.svg?branch=master)](https://travis-ci.org/jquery-boilerplate/jquery-boilerplate) ![Bower Version](https://badge.fury.io/bo/jquery-boilerplate.svg)
+# Better Timezone [![Build Status](https://secure.travis-ci.org/clara-labs/better-timezone.svg?branch=master)](https://travis-ci.org/jquery-boilerplate/jquery-boilerplate)
 ### A jQuery plugin for making sane timezone selects.
 
 This jQuery plugin creates a simple, configurable dropdown and autocomplete element. For some reason, this hasn't really been solved yet. Timezones are pretty weird and vary year to year, so we've compiled and cross-checked several different data sources:
