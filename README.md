@@ -34,6 +34,13 @@ This jQuery plugin creates a simple, configurable dropdown and autocomplete elem
   <script src="dist/better-timezone.min.js"></script>
   ```
 
+3. Include your target element:
+  ```html
+  <select id="element">
+    <option value="" disabled selected>Please select a timezone</option>
+  </script>
+  ```
+
 3. Call the plugin:
 
   ```javascript
