@@ -1,7 +1,7 @@
 # Better Timezone [![Build Status](https://secure.travis-ci.org/clara-labs/better-timezone.svg?branch=master)](https://travis-ci.org/clara-labs/better-timezone)
 ### A jQuery plugin for making sane timezone selects.
 
-[![What it looks like](https://cloud.githubusercontent.com/assets/546651/6496717/c345636e-c28b-11e4-9ac9-1ae6a23f6a68.png)]
+![What it looks like](https://cloud.githubusercontent.com/assets/546651/6496717/c345636e-c28b-11e4-9ac9-1ae6a23f6a68.png)
 
 This jQuery plugin creates a simple, configurable dropdown and autocomplete element. For some reason, this hasn't really been solved yet. Timezones are pretty weird and vary year to year, so we've compiled and cross-checked several different data sources:
 
@@ -51,7 +51,7 @@ This jQuery plugin creates a simple, configurable dropdown and autocomplete elem
 
 ### showOptgroups
 
-[![optgroups and IANA](https://cloud.githubusercontent.com/assets/546651/6496719/c35b203c-c28b-11e4-98a1-69bd939b4309.png)]
+![optgroups and IANA](https://cloud.githubusercontent.com/assets/546651/6496719/c35b203c-c28b-11e4-98a1-69bd939b4309.png)
 
 *Boolean*: make better-timezone group IANA locations into their respective timezone categories with `<optgroup>` elements. Cannot be true when showIANA is false
 
