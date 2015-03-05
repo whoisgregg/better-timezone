@@ -15,5 +15,9 @@
     "select",
     "selector"
   ],
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "jquery": "~2.1.3",
+    "select2": "~3.5.2"
+  }
 }
