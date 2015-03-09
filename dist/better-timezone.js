@@ -822,7 +822,7 @@
       ],
       "Mountain Standard Time": [
         {
-          "iana": "Mountain",
+        "iana": "America/Denver",
           "abbrs": [
             "MST",
             "MDT"
@@ -940,7 +940,7 @@
       ],
       "Pacific Standard Time": [
         {
-          "iana": "Pacific",
+          "iana": "America/Los_Angeles",
           "abbrs": [
             "PST",
             "PDT"
@@ -1065,7 +1065,7 @@
       ],
       "Central Standard Time": [
         {
-          "iana": "Central",
+        "iana": "America/Chicago",
           "abbrs": [
             "CST",
             "CDT"
@@ -2517,7 +2517,7 @@
       ],
       "Eastern Standard Time": [
         {
-          "iana": "Eastern",
+          "iana": "America/New_York",
           "abbrs": [
             "EST",
             "EDT"
