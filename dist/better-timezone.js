@@ -2832,13 +2832,13 @@
         // prefill
         var abbr = new Date().toTimeString().match(/\((.+)\)/)[1];
         if (abbr === 'PST' || abbr === 'PDT') {
-          $(self.element).val('Pacific').trigger('change');
+          $(self.element).val('America/Los_Angeles').trigger('change');
         } else if (abbr === 'EST' || abbr === 'EDT') {
-          $(self.element).val('Eastern').trigger('change');
+          $(self.element).val('America/New_York').trigger('change');
         } else if (abbr === 'MST' || abbr === 'MDT') {
-          $(self.element).val('Mountain').trigger('change');
+          $(self.element).val('America/Denver').trigger('change');
         } else if (abbr === 'CST' || abbr === 'CDT') {
-          $(self.element).val('Central').trigger('change');
+          $(self.element).val('America/Chicago').trigger('change');
         } else {
           // look for a match
           var done;
