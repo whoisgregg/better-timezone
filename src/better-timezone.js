@@ -1669,22 +1669,6 @@
           ]
         }
       ],
-      "AUS Eastern Standard Time": [
-        {
-          "iana": "Australia/Melbourne",
-          "abbrs": [
-            "AEDT",
-            "AEST"
-          ]
-        },
-        {
-          "iana": "Australia/Sydney",
-          "abbrs": [
-            "AEDT",
-            "AEST"
-          ]
-        }
-      ],
       "W. Central Africa Standard Time": [
         {
           "iana": "Africa/Algiers",
