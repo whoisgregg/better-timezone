@@ -2826,7 +2826,8 @@
         //   });
         // });
         $(self.element).select2({
-          placeholder: 'Please select a timezone'
+          placeholder: 'Please select a timezone',
+          width: 'style'
         });
 
         // prefill
