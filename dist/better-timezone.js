@@ -2831,13 +2831,13 @@
 
         // prefill
         var abbr = new Date().toTimeString().match(/\((.+)\)/)[1];
-        if (abbr === 'PST' || abbr === 'PDT') {
+        if (abbr === 'PST' || abbr === 'PDT' || abbr === 'Pacific Daylight Time' || abbr === 'Pacific Standard Time') {
           $(self.element).val('America/Los_Angeles').trigger('change');
-        } else if (abbr === 'EST' || abbr === 'EDT') {
+        } else if (abbr === 'EST' || abbr === 'EDT' || abbr === 'Eastern Standard Time' || abbr === 'Eastern Daylight Time') {
           $(self.element).val('America/New_York').trigger('change');
-        } else if (abbr === 'MST' || abbr === 'MDT') {
+        } else if (abbr === 'MST' || abbr === 'MDT' || abbr === 'Mountain Standard Time' || abbr === 'Mountain Daylight Time') {
           $(self.element).val('America/Denver').trigger('change');
-        } else if (abbr === 'CST' || abbr === 'CDT') {
+        } else if (abbr === 'CST' || abbr === 'CDT' || abbr === 'Central Standard Time' || abbr === 'Central Daylight Time') {
           $(self.element).val('America/Chicago').trigger('change');
         } else {
           // look for a match
@@ -2855,6 +2855,10 @@
             } else {
               break;
             }
+          }
+          if (!done) {
+            // default to PST
+            $(self.element).val('America/Los_Angeles').trigger('change');
           }
         }
       },
