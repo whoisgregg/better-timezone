@@ -1,5 +1,5 @@
 /*
- *  better-timezone - v0.0.2
+ *  better-timezone - v0.0.3
  *  A jquery plugin for making sane timezone selects.
  *  https://www.claralabs.com
  *
@@ -184,62 +184,6 @@
         }
       ],
       "British Summer Time": [
-        {
-          "iana": "Atlantic/Canary",
-          "abbrs": [
-            "WET",
-            "WEST"
-          ]
-        },
-        {
-          "iana": "Atlantic/Faeroe",
-          "abbrs": [
-            "WET",
-            "WEST"
-          ]
-        },
-        {
-          "iana": "Atlantic/Madeira",
-          "abbrs": [
-            "WET",
-            "WEST"
-          ]
-        },
-        {
-          "iana": "Europe/Lisbon",
-          "abbrs": [
-            "WET",
-            "WEST"
-          ]
-        },
-        {
-          "iana": "Europe/Dublin",
-          "abbrs": [
-            "GMT",
-            "IST"
-          ]
-        },
-        {
-          "iana": "Europe/Guernsey",
-          "abbrs": [
-            "GMT",
-            "BST"
-          ]
-        },
-        {
-          "iana": "Europe/Isle_of_Man",
-          "abbrs": [
-            "GMT",
-            "BST"
-          ]
-        },
-        {
-          "iana": "Europe/Jersey",
-          "abbrs": [
-            "GMT",
-            "BST"
-          ]
-        },
         {
           "iana": "Europe/London",
           "abbrs": [
