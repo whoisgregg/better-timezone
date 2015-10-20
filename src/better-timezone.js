@@ -821,6 +821,14 @@
           ]
         }
       ],
+      "Mountain Standard Time - Arizona": [
+        {
+          "iana": "America/Phoenix",
+          "abbrs": [
+            "MST"
+          ]
+        },
+      ],
       "Mountain Standard Time": [
         {
         "iana": "America/Denver",
@@ -843,12 +851,6 @@
         },
         {
           "iana": "America/Hermosillo",
-          "abbrs": [
-            "MST"
-          ]
-        },
-        {
-          "iana": "America/Phoenix",
           "abbrs": [
             "MST"
           ]

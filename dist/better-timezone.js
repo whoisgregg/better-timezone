@@ -1,5 +1,5 @@
 /*
- *  better-timezone - v0.0.3
+ *  better-timezone - v0.0.4
  *  A jquery plugin for making sane timezone selects.
  *  https://www.claralabs.com
  *
@@ -829,6 +829,14 @@
           ]
         }
       ],
+      "Mountain Standard Time - Arizona": [
+        {
+          "iana": "America/Phoenix",
+          "abbrs": [
+            "MST"
+          ]
+        },
+      ],
       "Mountain Standard Time": [
         {
         "iana": "America/Denver",
@@ -851,12 +859,6 @@
         },
         {
           "iana": "America/Hermosillo",
-          "abbrs": [
-            "MST"
-          ]
-        },
-        {
-          "iana": "America/Phoenix",
           "abbrs": [
             "MST"
           ]
