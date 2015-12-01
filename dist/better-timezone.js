@@ -1,5 +1,5 @@
 /*
- *  better-timezone - v0.0.4
+ *  better-timezone - v0.0.5
  *  A jquery plugin for making sane timezone selects.
  *  https://www.claralabs.com
  *
@@ -110,6 +110,15 @@
         }
       ],
       "Turkey Standard Time": [
+        {
+          "iana": "Europe/Istanbul",
+          "abbrs": [
+            "EET",
+            "EEST"
+          ]
+        }
+      ],
+      "Eastern European Time": [
         {
           "iana": "Europe/Istanbul",
           "abbrs": [

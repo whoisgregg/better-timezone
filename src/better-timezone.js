@@ -110,6 +110,15 @@
           ]
         }
       ],
+      "Eastern European Time": [
+        {
+          "iana": "Europe/Istanbul",
+          "abbrs": [
+            "EET",
+            "EEST"
+          ]
+        }
+      ],
       "GMT Standard Time": [
         {
           "iana": "Atlantic/Canary",
