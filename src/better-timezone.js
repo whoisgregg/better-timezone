@@ -2878,7 +2878,7 @@
             }
         } else {
             // allows setting "data-iana" on the <select> in order to select an option
-            if($(self.element).data('iana') != ''){
+            if($(self.element).data('iana') !== ''){
                 $(self.element).val($(self.element).data('iana')).trigger('change');
             }
         }
